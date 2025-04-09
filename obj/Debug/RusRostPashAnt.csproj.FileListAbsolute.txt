@@ -1,0 +1,20 @@
+C:\Users\student\source\repos\RusRostPashAnt\bin\Debug\RusRostPashAnt.exe.config
+C:\Users\student\source\repos\RusRostPashAnt\bin\Debug\RusRostPashAnt.exe
+C:\Users\student\source\repos\RusRostPashAnt\bin\Debug\RusRostPashAnt.pdb
+C:\Users\student\source\repos\RusRostPashAnt\obj\Debug\RusRostPashAnt.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\RusRostPashAnt\obj\Debug\RusRostPashAnt.Form1.resources
+C:\Users\student\source\repos\RusRostPashAnt\obj\Debug\RusRostPashAnt.Properties.Resources.resources
+C:\Users\student\source\repos\RusRostPashAnt\obj\Debug\RusRostPashAnt.csproj.GenerateResource.cache
+C:\Users\student\source\repos\RusRostPashAnt\obj\Debug\RusRostPashAnt.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RusRostPashAnt\obj\Debug\RusRostPashAnt.exe
+C:\Users\student\source\repos\RusRostPashAnt\obj\Debug\RusRostPashAnt.pdb
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\bin\Debug\RusRostPashAnt.exe.config
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\bin\Debug\RusRostPashAnt.exe
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\bin\Debug\RusRostPashAnt.pdb
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\obj\Debug\RusRostPashAnt.csproj.AssemblyReference.cache
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\obj\Debug\RusRostPashAnt.Form1.resources
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\obj\Debug\RusRostPashAnt.Properties.Resources.resources
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\obj\Debug\RusRostPashAnt.csproj.GenerateResource.cache
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\obj\Debug\RusRostPashAnt.csproj.CoreCompileInputs.cache
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\obj\Debug\RusRostPashAnt.exe
+C:\Users\p-kos\OneDrive\Рабочий стол\ВУЗ\3_курс\ГрафСистемы\obj\Debug\RusRostPashAnt.pdb
